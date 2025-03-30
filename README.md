@@ -22,5 +22,3 @@ Fullstack Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Kume2003Mks"><img src="https://github-readme-stats.vercel.app/api?username=Kume2003Mks&show_icons=true&hide=&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kume2003Mks's GitHub stats" /></a>
-
-<a href="https://github.com/Kume2003Mks" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kume2003Mks&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
